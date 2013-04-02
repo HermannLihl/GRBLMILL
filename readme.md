@@ -11,8 +11,7 @@ Bezugsquellen
 
 Original-Unterlagen chin. Hersteller
 
-Schaltbilder zu chinesischen TB6560-Schrittmotortreiberkarten 
-und unsere GRBL-Schrittmotorsteuerung siehe auch Repo heise/GRBLDRILL
+Schaltbilder zu TB6560-Schrittmotortreiberkarten siehe auch Repo heise/GRBLDRILL
 
 Alle Angaben ohne Gewähr
 
